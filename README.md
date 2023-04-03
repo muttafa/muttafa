@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently My Own Flutter Projects<br>👯 I collaborate on Unishare<br>🌱 I’m currently learning Mobile Developement patterns<br>💬 Ask me about C#,Sql,Flutter<br>
+🔭 I’m currently working on My Own Flutter Projects<br>👯 I collaborate on Unishare<br>🌱 I’m currently learning Mobile Developement patterns<br>💬 Ask me about C#,Sql,Flutter<br>
 
 
 ## 🌐 Socials:
